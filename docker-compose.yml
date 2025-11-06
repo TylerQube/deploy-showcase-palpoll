@@ -1,3 +1,4 @@
+name: pal-poll
 services:
   api:
     image: ghcr.io/tylerqube/palapi:latest
