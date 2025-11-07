@@ -2,7 +2,10 @@
 
 
 # PalPoll Deployment Pipeline
-After developing my full-stack app PalPoll (an online quiz game for me and my close friends), I became frustrated with the tedious manual deployment process:
+PalPoll is a full-stack quiz game played by me and my friends.
+
+[Client Source](https://github.com/tylerqube/pal-poll-client) | [Server Source](https://github.com/tylerqube/pal-poll-server)
+
 
 
 To streamline the process, and as a learning exercise in CI/CD and developer operations, I built a deployment pipeline with Docker, Docker Compose, and GitHub Actions to automatically deploy the full application to my homelab.
