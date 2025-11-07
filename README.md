@@ -10,7 +10,7 @@ PalPoll is a full-stack quiz game played by me and my friends.
 
 To streamline the process, and as a learning exercise in CI/CD and developer operations, I built a deployment pipeline with Docker, Docker Compose, and GitHub Actions to automatically deploy the full application to my homelab.
 
-## Previous Process
+## Initial Configuration
 
 - Ubuntu homelab hosts applications pulled from GitHub
 - DNS records for subdomains configured via Cloudflare Dashboard
